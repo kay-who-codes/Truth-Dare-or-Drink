@@ -49,21 +49,22 @@ body {
   }
   
   .truth {
-    background-color: #1e90ff;
-    color: white;
+    background-color: #fff;
+    color: black;
   }
   
   .truth:hover {
-    background-color: #0077cc;
+    outline: 0000000b 4px solid;
   }
   
   .dare {
-    background-color: #ff4444;
+    background-color: #000000b2;
     color: white;
   }
   
   .dare:hover {
-    background-color: #cc0000;
+    background-color: #101010;
+    outline: #ffffff0b 2px solid;
   }
   
   .done {
