@@ -1,6 +1,6 @@
-# DareMaster 3000
+# 🍻 Truth, Dare, or Drink
 
-A fun and interactive web app that generates random dares for parties, game nights, or just to spice up your day! With over 150+ dares across multiple categories, DareMaster 3000 is your ultimate source of entertainment and challenges.
+A minimalistic web app that functions as a Truth or Dare generator.
 
 [![App Image](Non-App/App%20Image.png)](https://kay-who-codes.github.io/Truth-Dare-or-Drink)
 
