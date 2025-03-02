@@ -1,4 +1,4 @@
-# 🍻 Truth, Dare, or Drink
+# 🫢 Truth, Dare, or Drink
 
 A minimalistic web app that functions as a Truth or Dare generator.
 
