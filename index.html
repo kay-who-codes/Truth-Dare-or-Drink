@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🍻 Truth, Dare, or Drink</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/header.css">
+</head>
+<body>
+<div id="header"></div>
+<div class="container">
+    <div id="main-menu">
+      <h1>Truth, Dare, or Drink</h1>
+      <div class="buttons">
+        <button id="truth-btn" class="btn truth">Truth</button>
+        <button id="dare-btn" class="btn dare">Dare</button>
+      </div>
+    </div>
+    <div id="content" class="hidden">
+      <h2 id="prompt"></h2>
+      <div class="action-buttons">
+        <button id="done-btn" class="btn done">Done</button>
+        <button id="drink-btn" class="btn drink">Take a Drink</button>
+      </div>
+    </div>
+    <div id="stats">
+    <p><strong>Truths:</strong> <span id="truth-count">0</span></p>
+      <p><strong>Dares:</strong> <span id="dare-count">0</span></p>
+      <p><strong>Drinks:</strong> <span id="drink-count">0</span></p>
+    </div>
+  </div>
+  <audio id="click-sound" src="click.mp3"></audio>
+  <script src="js/Truths.js"></script>
+  <script src="js/Dares.js"></script>
+  <script src="js/script.js"></script>
+  <script src="js/header.js"></script>
+</body>
+</html>
